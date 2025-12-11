@@ -150,13 +150,10 @@ urlpatterns = [
 
 
 ## OUTPUT - SERVER SIDE:
-
-![alt text](sideserver.png)
-
+![Server Output](output.png)
 
 ## OUTPUT - WEBPAGE:
-
-![alt text](output.png)
+![Webpage Output](sideserver.png)
 
 
 
